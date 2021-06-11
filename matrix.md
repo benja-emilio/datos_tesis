@@ -7,7 +7,6 @@
 | |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/rvf-oct-17_5.png)
 | |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/rvf-oct-17_6.png)
 | |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/rvf-oct-17_7.png)
-
 |18 de Octubre |![ima](cnn/cnn-oct-18_1.png) | ![ima](latercera/terc-oct-18_1.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_1.png) | ![ima](rvf/rvf-oct-18_1.png)
 | |![ima](cnn/cnn-oct-18_2.png) | ![ima](latercera/terc-oct-18_2.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_2.png) | ![ima](rvf/rvf-oct-18_2.png)
 | |![ima](cnn/cnn-oct-18_3.png) | ![ima](latercera/terc-oct-18_3.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_3.png) | ![ima](rvf/rvf-oct-18_3.png)
@@ -15,7 +14,6 @@
 | |![ima](cnn/cnn-oct-18_5.png) | ![ima](latercera/terc-oct-18_5.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_5.png) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-18_6.png) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-18_7.png) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/)
-
 |19 de Octubre |![ima](cnn/cnn-oct-19_1.png) | ![ima](latercera/terc-oct-19_1.png) | ![ima]() | ![ima](eldesconcierto/des-oct-19_1.png) | ![ima](rvf/rvf-oct-19_1.png)
 | |![ima](cnn/cnn-oct-19_2.png) | ![ima](latercera/terc-oct-19_2.png) | ![ima]() | ![ima](eldesconcierto/des-oct-19_2.png) | ![ima](rvf/rvf-oct-19_2.png)
 | |![ima](cnn/cnn-oct-19_3.png) | ![ima](latercera/terc-oct-19_3.png) | ![ima]() | ![ima](eldesconcierto/des-oct-19_3.png) | ![ima](rvf/rvf-oct-19_3.png)
@@ -27,7 +25,6 @@
 | |![ima](cnn/cnn-oct-19_9.png) | ![ima](latercera/terc-oct-19_9.png) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-19_10.png) | ![ima](latercera/terc-oct-19_10.png) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-19_11.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
-
 |20 de octubre |![ima](cnn/cnn-oct-20_1.png) | ![ima](latercera/terc-oct-20_1.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-20_1.png) | ![ima](rvf/rvf-oct-20_1.png)
 | |![ima](cnn/cnn-oct-20_2.png) | ![ima](latercera/terc-oct-20_2.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-20_2.png) | ![ima](rvf/rvf-oct-20_2.png)
 | |![ima](cnn/cnn-oct-20_3.png) | ![ima](latercera/terc-oct-20_3.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-20_3.png) | ![ima](rvf/rvf-oct-20_3.png)
@@ -36,7 +33,6 @@
 | |![ima](cnn/) | ![ima](latercera/terc-oct-20_6.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-20_6.png) | ![ima](rvf/)
 | |![ima](cnn/) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-20_7.png) | ![ima](rvf/)
 | |![ima](cnn/) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-20_8.png) | ![ima](rvf/)
-
 |21 de Octubre |![ima](cnn/cnn-oct-21_1.png) | ![ima](latercera/terc-oct-21_1.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-21_1.png) | ![ima](rvf/rvf-oct-21_1.png)
 | |![ima](cnn/cnn-oct-21_2.png) | ![ima](latercera/terc-oct-21_2.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-21_2.png) | ![ima](rvf/rvf-oct-21_2.png)
 | |![ima](cnn/cnn-oct-21_3.png) | ![ima](latercera/terc-oct-21_3.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-21_3.png) | ![ima](rvf/rvf-oct-21_3.png)
@@ -49,7 +45,6 @@
 | |![ima](cnn/cnn-oct-21_10.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-21_11.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-21_12.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
-
 |22 de Octubre |![ima](cnn/cnn-oct-22_1.png) | ![ima](latercera/terc-oct-22_1.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-22_1.png) | ![ima](rvf/rvf-oct-22_1.png)
 | |![ima](cnn/cnn-oct-22_2.png) | ![ima](latercera/terc-oct-22_2.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-22_2.png) | ![ima](rvf/rvf-oct-22_2.png)
 | |![ima](cnn/cnn-oct-22_3.png) | ![ima](latercera/terc-oct-22_3.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-22_3.png) | ![ima](rvf/rvf-oct-22_3.png)
@@ -59,8 +54,6 @@
 | |![ima](cnn/cnn-oct-22_7.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-22_7.png) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-22_8.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-22_8.png) | ![ima](rvf/)
 | |![ima](cnn/) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/cnn-oct-22_9.png) | ![ima](rvf/)
-
-
 |23 de Octubre |![ima](cnn/cnn-oct-23_1.png) | ![ima](latercera/terc-oct-23_1.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-23_1.png) | ![ima](rvf/rvf-oct-23_1.png)
 | |![ima](cnn/cnn-oct-23_2.png) | ![ima](latercera/terc-oct-23_2.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-23_2.png) | ![ima](rvf/rvf-oct-23_2.png)
 | |![ima](cnn/cnn-oct-23_3.png) | ![ima](latercera/terc-oct-23_3.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-23_3.png) | ![ima](rvf/rvf-oct-23_3.png)
@@ -71,8 +64,6 @@
 | |![ima](cnn/cnn-oct-23_8.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-23_9.png) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-23_9.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-23_10.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
-
-
 |24 de Octubre |![ima](cnn/cnn-oct-24_1.png) | ![ima](latercera/terc-oct-24_1.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-24_1.png) | ![ima](rvf/rvf-oct-24_1.png)
 | |![ima](cnn/cnn-oct-24_2.png) | ![ima](latercera/terc-oct-24_2.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-24_2.png) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-24_3.png) | ![ima](latercera/terc-oct-24_3.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-24_3.png) | ![ima](rvf/)
@@ -84,7 +75,6 @@
 | |![ima](cnn/cnn-oct-24_9.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-24_10.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-24_11.png) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
-
 |25 de Octubre |![ima](cnn/cnn-oct-25_1.png) | ![ima](latercera/terc-oct-25_1.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-25_1.png) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-25_2.png) | ![ima](latercera/terc-oct-25_2.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-25_2.png) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-25_3.png) | ![ima](latercera/terc-oct-25_3.png) | ![ima](t13/) | ![ima](eldesconcierto/des-oct-25_3.png) | ![ima](rvf/)
