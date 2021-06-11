@@ -52,6 +52,9 @@ Códigos de fechas
 ### Cinco meses
 - since:2019-10-18 until:2020-03-18
 
+
+| |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/)
+
 | meses | hito o coyuntura | anotaciones |
 |---|---|---|
 |Mayo 2019| Conflicto con el reconocimiento de Juan Guaido| Existen registros de cacerolazos por cortes de Luz 

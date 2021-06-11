@@ -1,4 +1,16 @@
 |Fecha | CNN Chile | La Tercera | T13 | El Desconcierto | Radio Villa Francia| 
 |---|---|---|---|---|---|
 |17 de Octubre| ![ima](cnn/cnn-oct-17_1.png) | ![ima](latercera/terc-oct-17_1.png) | ![ima]() | ![ima](eldesconcierto/des-oct-17_1.png) | ![ima](rvf/rvf-oct-17_1.png)
-| |![ima](cnn/cnn-oct-17_2.png) | ![ima](latercera/terc-oct-17_2.png)
+| |![ima](cnn/cnn-oct-17_2.png) | ![ima](latercera/terc-oct-17_2.png) | ![ima]() | ![ima](eldesconcierto/des-oct-17_2.png) | ![ima](rvf/rvf-oct-17_2.png)
+| |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/rvf-oct-17_3.png)
+| |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/rvf-oct-17_4.png)
+| |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/rvf-oct-17_5.png)
+| |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/rvf-oct-17_6.png)
+| |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/rvf-oct-17_7.png)
+|18 de Octubre |![ima](cnn/cnn-oct-18_1.png) | ![ima](latercera/terc-oct-18_1.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_1.png) | ![ima](rvf/rvf-oct-18_1.png)
+| |![ima](cnn/cnn-oct-18_2.png) | ![ima](latercera/terc-oct-18_2.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_2.png) | ![ima](rvf/rvf-oct-18_2.png)
+| |![ima](cnn/cnn-oct-18_3.png) | ![ima](latercera/terc-oct-18_3.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_3.png) | ![ima](rvf/rvf-oct-18_3.png)
+| |![ima](cnn/cnn-oct-18_4.png) | ![ima](latercera/terc-oct-18_4.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_4.png) | ![ima](rvf/)
+| |![ima](cnn/cnn-oct-18_5.png) | ![ima](latercera/terc-oct-18_5.png) | ![ima]() | ![ima](eldesconcierto/des-oct-18_5.png) | ![ima](rvf/)
+| |![ima](cnn/cnn-oct-18_6.png) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/)
+| |![ima](cnn/cnn-oct-18_7.png) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/)
