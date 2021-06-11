@@ -53,7 +53,7 @@ Códigos de fechas
 - since:2019-10-18 until:2020-03-18
 
 
-| |![ima](cnn/) | ![ima](latercera/) | ![ima]() | ![ima](eldesconcierto/) | ![ima](rvf/)
+| |![ima](cnn/) | ![ima](latercera/) | ![ima](t13/) | ![ima](eldesconcierto/) | ![ima](rvf/)
 
 | meses | hito o coyuntura | anotaciones |
 |---|---|---|
