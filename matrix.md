@@ -168,8 +168,8 @@
 | |![ima](cnn/cnn-oct-23_5.png) | ![ima](latercera/terc-oct-23_5.png) |  | |![ima](eldesconcierto/des-oct-23_5.png) | ![ima](rvf/rvf-oct-23_5.png)
 | |![ima](cnn/cnn-oct-23_6.png) | ![ima](latercera/terc-oct-23_6.png) |  |  |![ima](eldesconcierto/des-oct-23_6.png) | ![ima](rvf/rvf-oct-23_6.png)
 | |![ima](cnn/cnn-oct-23_7.png) | ![ima](latercera/terc-oct-23_7.png) | | |  ![ima](eldesconcierto/des-oct-23_7.png) | 
-| |![ima](cnn/cnn-oct-23_8.png) |  |  | ![ima](eldesconcierto/des-oct-23_9.png) | 
-| |![ima](cnn/cnn-oct-23_9.png) |  |  |  | 
+| |![ima](cnn/cnn-oct-23_8.png) |  |  | | ![ima](eldesconcierto/des-oct-23_8.png) | 
+| |![ima](cnn/cnn-oct-23_9.png) |  |  | | ![ima](eldesconcierto/des-oct-23_9.png) | 
 | |![ima](cnn/cnn-oct-23_10.png) |  |  |  |
 |24 de Octubre |![ima](cnn/cnn-oct-24_1.png) | ![ima](latercera/terc-oct-24_1.png) | ![ima](t13/) | ![ima](mostrador/mos-oct-24_1.png) | ![ima](eldesconcierto/des-oct-24_1.png) | ![ima](rvf/rvf-oct-24_1.png)
 | |![ima](cnn/cnn-oct-24_2.png) | ![ima](latercera/terc-oct-24_2.png) | ![ima](t13/) | ![ima](mostrador/mos-oct-24_2.png) | ![ima](eldesconcierto/des-oct-24_2.png) |
