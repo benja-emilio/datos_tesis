@@ -78,7 +78,6 @@
 | | |  | ![ima](t13/t13-oct-20_17.png) |  | 
 | | |  | ![ima](t13/t13-oct-20_18.png) |  | 
 | | |  | ![ima](t13/t13-oct-20_19.png) |  | 
-| | |  | ![ima](t13/t13-oct-20_20.png) |  | 
 |21 de Octubre |![ima](cnn/cnn-oct-21_1.png) | ![ima](latercera/terc-oct-21_1.png) | ![ima](t13/t13-oct-21_1.png) | ![ima](mostrador/mos-oct-21_1.png) | ![ima](eldesconcierto/des-oct-21_1.png) | ![ima](rvf/rvf-oct-21_1.png)
 | |![ima](cnn/cnn-oct-21_2.png) | ![ima](latercera/terc-oct-21_2.png) | ![ima](t13/t13-oct-21_2.png) | ![ima](mostrador/mos-oct-21_2.png) | ![ima](eldesconcierto/des-oct-21_2.png) | ![ima](rvf/rvf-oct-21_2.png)
 | |![ima](cnn/cnn-oct-21_3.png) | ![ima](latercera/terc-oct-21_3.png) | ![ima](t13/t13-oct-21_3.png) | ![ima](mostrador/mos-oct-21_3.png) |![ima](eldesconcierto/des-oct-21_3.png) | ![ima](rvf/rvf-oct-21_3.png)
