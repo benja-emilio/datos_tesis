@@ -49,7 +49,7 @@
 - ONU hace primera declaración con respecto a las movilizaciones. 
 - Medicos constatan heridos por perdigones. 
 - Quemas de automoviles particulares.
-- Automovilista atropella a manifestante
+- Automovilista atropella a manifestante.
 - Disparos de parte de Carabineros a grupos de manifestantes
 - Ataques a comisaria de Carabineros
 
@@ -77,13 +77,15 @@
 - Hostilidad entre manifestantes y policia.
 - Detenciones arbitrarias. 
 
+---
+
 ## 21 de Oct. Total de twitts 52
 ### Categorias. 
 - General Iturriaga descarta estado de guerra. 
 - Ministro del Interior constata 110 saqueos y 14 incendios en el pais. 
 - Acusaciones de tortura por parte de funcionarios PDI.
 - Enfrentamiento entre manifestantes y policia.
-- Construcción de Barricadas
+- Construcción de Barricadas.
 - Conteo de heridos no cuadra entre Ministerio de Salud, INDH, Colegio Medico y Hospitales. 
 - Se declara toque de queda en otras ciudades del pais.
 - Se inicia la primera formalización a militar por disparos. 
@@ -105,6 +107,83 @@
 - Cantidad de muertos aumenta a 11. 
 - Enfrentamiento entre civiles(Entre quienes se manifiesten y quienes no).
 - Carabineros realizan acoso callejero a manifestantes mujeres. 
+- Vejaciones por aprte de carabineros
+- Uso de vehiculos particulares por parte de carabineros en operativos. 
+
+---
+## 22 de Oct. Total de twitts 60.
+### Categorias. 
+- Comienza proceso a militar que atropello a una persona en Talcahuano. 
+- Ministerio del interior comienza a entregar la identidad de los fallecidos. 
+- Enfrentamiento entre civiles(Entre quienes se manifiesten y quienes no). 
+- Denuncias que no permiten el ingreso del INDH a posta Central. 
+- Disparos de parte de militares a grupos de manifestantes y otros civiles.
+- Se decreta prisión preventiva a militar imputado por asesinato a joven de 23 años en Coquimbo
+- Militar se entrega luego de la muerte de joven en Curico. 
+- Detienen a ex candidato a diputado de RD en un vehiculo encapuchado y con elementos incendiarios. 
+- Saqueos de edificios comerciales en Puente Alto.
+- Reporte INDH: 1692 personas detenidas, 226 personas heridas (123 por armas de fuego), 5 muertos por presuntos agentes del Estado y 26 acciones judiciales.
+- Detienen a carabinero y gendarme participando de un saqueo en Coronel.
+- INDH se querella por violencia sexual de carabineros hacia mujeres en comisarias. 
+- Jefe de la defensa de Valparaiso confirma el uso de municion de guerra por parte de las FF.AA.
+- Reduccionismo a delincuencia. 
+- Quemas y saqueos de edificios comerciales en El Bosque. 
+- Quemas y saqueos de edificios comerciales en La Florida.
+- Fallecido en saqueo en sector Franklin, comuna de Santiago. 
+- Queman oficina Essal Osorno.  
+- Disparos de parte de Carabineros a grupos de manifestantes.
+- Vejaciones y torturas por aprte de carabineros
+- "Encapuchados" se acercan y conversan con carabineros
+- Dispersan manifestacion pacifica en Concepción con carro lanza agua 
+- Se declara toque de queda en otras ciudades del pais.
+- Organizaciones internacionales de DD.HH preocupadas por la situación en Chile. 
+- Carabineros dejan caer a detenido desde reten en movimiento. 
+
+---
+
+## 23 de Oct. Total de twitts 63. 
+### Categorias. 
+- Decretan prisión preventiva a militar acusado de matar a joven en curico. 
+- Fiscalia confirma 16 muertes en el contexto de las protestas. 
+- Enfrentamiento entre manifestantes y policia.
+- Reunion entre director del INDH y Presindete Piñera. 
+- Ministerio Público designa fiscal especial para las querellas de violación de DD.HH. 
+- Llaman a reservistas del ejercito. 
+- Vejaciones y torturas por parte de Militares.
+- Quemas y saqueos de edificios comerciales en Plaza Baquedano. 
+- Minuta del Ministerio del Interior: 1073 "eventos graves" y 1437 detenidos. 
+- Se desestima centro de tortura en estación de Metro Baquedano por parte de fiscalia oriente.
+- Comision Interamericana de Derechos Humanos condena el uso de fuerza excesivo y rechaza todo tipo de violencia. 
+- Detienen a militar que disparo a quemarropa a joven en Concepción. 
+- Ministro del Interior rechaza tener responsabilidades politcas por las violaciones a los DD.HH. 
+- Ministerio de Salud informa de 290 hospitalizados por lesiones en protestas. 
+- Aumenta el numero de muestros en protestas a 18. 
+- Investigan a militares por 4 personas muertas en protestas. 
+- Carabineros golpea y amenaza a trabajadores de prensa. 
+- Disparos de parte de militares a grupos de manifestantes y otros civiles.
+- Quemas y saqueos de edificios comerciales en Talca.
+- Construcción de Barricadas
+- Saqueos de edificios comerciales en Paseo Ahumada.
+- INDH se querella por violencia sexual de carabineros hacia mujeres en comisarias. 
+- Detencion ilegal a vocera de la Cordinadora Nacional de Estudiantes Secundarios CONES.
+- Automovilista atropella a manifestante en San Pedro de La Paz. 
+- Militar que atropello y mato una persona en Talcahuano es reintegrado a las FF.AA.
+- Diputadas de oposición se enfrentan a Diputadas del oficialismo en la camara. 
+- Abogadas acusan obstrucción para acceder a registros de detenidos. 
+- Colegio Medico informa de 29 pacientes con trauma ocular severo. 
+- Disparos de parte de Carabineros a grupos de manifestantes
+
+---
+
+## 24 de Oct. Total de twitts 48. 
+### Categorias. 
+-
+
+---
+
+## 25 de Oct. Total de twitts 32.
+### Categorias. 
+- 
 
 ---
 
