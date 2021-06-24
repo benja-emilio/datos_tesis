@@ -202,8 +202,7 @@
 | | |  | ![ima](t13/t13-oct-24_11.png) |  | 
 | | |  | ![ima](t13/t13-oct-24_12.png) |  | 
 | | |  | ![ima](t13/t13-oct-24_13.png) |  | 
-| | |  | ![ima](t13/t13-oct-24_14.png) |  | 
-| | |  | ![ima](t13/t13-oct-24_15.png) |  | 
+| | |  | ![ima](t13/t13-oct-24_14.png) |  |  
 | | |  | ![ima](t13/t13-oct-24_16.png) |  | 
 |25 de Octubre |![ima](cnn/cnn-oct-25_1.png) | ![ima](latercera/terc-oct-25_1.png) | ![ima](t13/t13-oct-25_1.png) | ![ima](mostrador/mos-oct-25_1.png) | ![ima](eldesconcierto/des-oct-25_1.png) | ![ima](rvf/)
 | |![ima](cnn/cnn-oct-25_2.png) | ![ima](latercera/terc-oct-25_2.png) | ![ima](t13/t13-oct-25_2.png) | ![ima](mostrador/mos-oct-25_2.png) | ![ima](eldesconcierto/des-oct-25_2.png) | ![ima](rvf/)

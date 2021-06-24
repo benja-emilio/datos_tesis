@@ -133,7 +133,7 @@
 - Queman oficina Essal Osorno.  
 - Disparos de parte de Carabineros a grupos de manifestantes.
 - Vejaciones y torturas por aprte de carabineros
-- "Encapuchados" se acercan y conversan con carabineros
+- "Encapuchados" se acercan y conversan con carabineros.
 - Dispersan manifestacion pacifica en Concepción con carro lanza agua 
 - Se declara toque de queda en otras ciudades del pais.
 - Organizaciones internacionales de DD.HH preocupadas por la situación en Chile. 
@@ -162,7 +162,7 @@
 - Carabineros golpea y amenaza a trabajadores de prensa. 
 - Disparos de parte de militares a grupos de manifestantes y otros civiles.
 - Quemas y saqueos de edificios comerciales en Talca.
-- Construcción de Barricadas
+- Construcción de Barricadas.
 - Saqueos de edificios comerciales en Paseo Ahumada.
 - INDH se querella por violencia sexual de carabineros hacia mujeres en comisarias. 
 - Detencion ilegal a vocera de la Cordinadora Nacional de Estudiantes Secundarios CONES.
@@ -171,19 +171,47 @@
 - Diputadas de oposición se enfrentan a Diputadas del oficialismo en la camara. 
 - Abogadas acusan obstrucción para acceder a registros de detenidos. 
 - Colegio Medico informa de 29 pacientes con trauma ocular severo. 
-- Disparos de parte de Carabineros a grupos de manifestantes
+- Disparos de parte de Carabineros a grupos de manifestantes.
 
 ---
 
 ## 24 de Oct. Total de twitts 48. 
 ### Categorias. 
--
+- Ultimo balance del gobierno: 0 muertos y 244 detenciones en las ultimas 24 horas. 
+- Justificación de la presencia militar y minimización de la violencia estatal por parte de alcaldesa de Providencia. 
+- INDH investiga acusaciones de "crucificción" en comisaria de Peñalolen. 
+- Militar que disparo a quemarropa a joven en Concepción quedo sin medidas cautelares. 
+- Relativización de la represión por parte de General en Jefe de Carabineros, Ministro de Justicia y Ministro de Defensa. 
+- Sindicatos de choferes del transantiago en paro tras baleo de compañero. 
+- Presidente de la corte suprema advierte del aumento de las detenciones ilegales. 
+- Comision Europea condena la violencia registrada en las protestas. 
+- Disparos de parte de Carabineros a grupos de manifestantes.
+- Comision interamerica de Derechos Humanos realiza audiencia de oficio por violencia en Chile. 
+- Minimización de la participación en los distrubios, y justificación del gobierno por prodeciminetos policiales y militares. 
+- Gobierno pide observadores de DD.HH a alta comisionada de la ONU. 
+- Enfrentamiento entre manifestantes y policia.
+- Armada investiga dos militares por saqueos de bienes. 
+- General en Jefe de Carabineros anuncia investigaciones internas por abuso de fuerza.
+- "Encapuchados" se acercan y conversan con carabineros.
+- Denuncias de supuestos saqueos autorizados por carabineros. 
+- Vocera de CONES se querella por secuestro. 
+- Colegio Medico denuncia intimidaciones para no entregar información de las personas heridas. 
 
 ---
 
 ## 25 de Oct. Total de twitts 32.
 ### Categorias. 
-- 
+- Fiscalia entrega identidad de fallecidos. 
+- Solado lleva 5 dias detenido por rehusarse a participar del toque de queda. 
+- Disparos de parte de Carabineros a grupos de manifestantes.
+- Desalojan congreso nacional por enfrentamientos en el frontis. 
+- Equipo de Alta Comisionada de la ONU ya presenta fecha de llegada al pais. 
+- Aumenta el numero de fallecidos a 19. 
+- Se terminan los toques de queda en todo el pais. 
+- Nuevo reposte del INDH: 2840 detenidos, 582 heridos y 12 querellas por violencia sexual. 
+- Construcción de Barricadas.
+- Atacan a carabineros con pirotecnia. 
+- Carabineros golpean con puño y patadas a manifestantes. 
 
 ---
 
