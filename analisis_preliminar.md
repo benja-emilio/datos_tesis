@@ -3,12 +3,12 @@
 ## 17 de Oct. total de twitts 27. 
 ### Categorias
 - Reduccionismo a delincuencia. 
-- Enfrentamiento entre civiles(Entre quienes se manifiesten y quienes no). 
+- Enfrentamiento entre civiles(Entre quienes se manifiesten y quienes no).  
 - Destrucción de propiedad de Metro de Santiago.
 - Disparo o lanzamiento de bombas lacrimógenas. 
 - Detenciones policiales. 
 - Enfrentamiento entre manifestantes y policia.
-- Guardias de metro en conflicto con abordar el problema "politicamente"
+- Guardias de metro en conflicto con abordar el problema "politicamente" *
 - Construcción de Barricadas
 - Uso de gas pimienta dentro de los vagones. 
 
@@ -16,16 +16,16 @@
 
 ## 18 de Oct. total de twitts 52.
 ### Categorias. 
-- Agresiones de manifestantes hacia guardias de seguridad. 
-- Poder ejecutivo a travez del min. Interior busca querellarse por ley de seguridad del Estado.
+- Agresiones de manifestantes hacia guardias de Metro. 
+- Poder ejecutivo a través del min. Interior busca querellarse por ley de seguridad del Estado. Estado se querella por ley de seguridad del Estado. 
 - Diputados RN buscan sancionar penalmente la evasión. 
-- Enfrentamiento entre manifestantes y policia.
+- Enfrentamiento entre manifestantes y policías.
 - Destrucción y quema de propiedad de metro.
 - Disparos de parte de Carabineros a grupos de manifestantes
 - Barricadas fuera de estaciones de metro. 
-- PC considera la evación como acciones de seobediencia civil.
+- PC considera la evasión como acciones de desobediencia civil.
 - Construcción de Barricadas
-- Quema de microbus de Transantiago. 
+- Quema de microbúses de Transantiago. 
 - Barricadas en plaza Baquedano. 
 - Fuerte contingente de carabineros en estaciones de Metro. 
 - Detenciones policiales. 

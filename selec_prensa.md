@@ -2,13 +2,13 @@
 ## Método de búsqueda de datos secundarios a través de twitter.
 ---
 
-|Nombre | Cantidad de Twitts | validos | Analizados |
+|Nombre |  Seguidores| validos | Analizados |
 |---|---|---|---|
-|[Emol](https://twitter.com/Emol) @Emol | 
-|[La Tercera](https://twitter.com/latercera)|
+|[La Tercera](https://twitter.com/latercera) | 1.987.469| |
 |[T13](https://twitter.com/T13)|
 |[CNNChile](https://twitter.com/CNNChile)
-|[elDesconcierto](https://twitter.com/eldesconcierto)
+|[El Mostrador]()
+|[El Desconcierto](https://twitter.com/eldesconcierto)
 |[Radio Villa Francia](https://twitter.com/rvfradiopopular)
 
 ## 

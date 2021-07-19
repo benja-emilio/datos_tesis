@@ -198,7 +198,7 @@
 | |![ima](cnn/cnn-oct-24_7.png) |  | ![ima](t13/t13-oct-24_7.png) | ![ima](mostrador/mos-oct-24_7.png) |  | 
 | |![ima](cnn/cnn-oct-24_8.png) |  | ![ima](t13/t13-oct-24_8.png) | ![ima](mostrador/mos-oct-24_8.png) |  | 
 | |![ima](cnn/cnn-oct-24_9.png) |  | ![ima](t13/t13-oct-24_9.png) |  ![ima](mostrador/mos-oct-24_9.png) | | 
-| |![ima](cnn/cnn-oct-24_10.png) |  | ![ima](t13/t13-oct-24_11.png) |  | 
+| |![ima](cnn/cnn-oct-24_10.png) |  | ![ima](t13/t13-oct-24_10.png) |  | 
 | | |  | ![ima](t13/t13-oct-24_11.png) |  | 
 | | |  | ![ima](t13/t13-oct-24_12.png) |  | 
 | | |  | ![ima](t13/t13-oct-24_13.png) |  | 
