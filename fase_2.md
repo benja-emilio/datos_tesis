@@ -1,11 +1,11 @@
 ## 17 de Oct. total de twitts 27. 
 ### Categorías
-- Reducción de la protesta a delincuencia. 
+- Reduccionismo a delincuencia. 
 - Agresiones entre civiles. 
 - Destrucción de propiedad de Metro de Santiago.
 - Disparo o lanzamiento de bombas lacrimógenas. 
 - Detenciones policiales con exceso de fuerza. 
-- Enfrentamiento entre manifestantes y policías.
+- Agresiones de manifestantes a policías.
 - Guardias de metro en contra de abordar el problema "politicamente". 
 - Construcción de Barricadas
 - Uso de gas pimienta dentro de los vagones. 
@@ -14,18 +14,18 @@
 
 ## 18 de Oct. total de twitts 52.
 ### Categorías. 
-- Agresiones de manifestantes hacia guardias de Metro. 
-- Estado se querella por ley de seguridad del Estado. 
+- Agresiones de manifestantes a guardias de Metro. 
+- Min. del Interior se querella por ley de seguridad del Estado. 
 - Diputados RN buscan sancionar penalmente la evasión. 
-- Enfrentamiento entre manifestantes y policías.
+- Agresiones de manifestantes a policías.
 - Destrucción y quema de propiedad de metro.
-- Disparos de parte de Carabineros a grupos de manifestantes
+- Disparos de parte de Carabineros a grupos de manifestantes.
 - Barricadas fuera de estaciones de metro. 
 - Construcción de Barricadas.
 - Quema de microbuses de Transantiago. 
 - Barricadas en plaza Baquedano. 
 - Fuerte contingente de carabineros en estaciones de Metro. 
-- Detenciones policiales. 
+- Detenciones policiales con exceso de fuerza.
 - Golpes con Luma por parte de Carabineros. 
 
 ---
@@ -41,10 +41,10 @@
 - Quema de microbuses de Transantiago.
 - Fiscal nacional anuncia 134 detenciones. 
 - Disparos al aire por parte de militares. 
-- Evasiones en red de Metro de Valparaíso. 
+- Evasiones en red Metro de Valparaíso. 
 - Quema de locales comerciales y supermercados en Valparaíso. 
 - ONU hace primera declaración con respecto a las movilizaciones. 
-- Medicos constatan heridos por perdigones. 
+- Médicos constatan heridos por perdigones. 
 - Quemas de automóviles particulares.
 - Automovilista atropella a manifestante.
 - Disparos de parte de Carabineros a grupos de manifestantes
@@ -59,7 +59,7 @@
 - Contingente policial protege al congreso nacional. 
 - Se declara toque de queda en otras ciudades del país.
 - Incendios en fabricas y bodegas. (Aparecen muertos en los incendios)
-- Se alcanzan las 1500 detenciones en las últimas 24 horas.  
+- Según Min. Publico se alcanzan las 1500 detenciones en las últimas 24 horas.  
 - Saqueos a supermercados y grandes tiendas.
 - Carabineros atropella con sus vehículos a diferentes personas.  
 - Quemas de automóviles particulares.
@@ -68,10 +68,9 @@
 - Destrucción y quema de edificios gubernamentales. 
 - Quema de casetas de peaje.
 - Ministro del Interior da balance de 7 muertos, 152 detenidos, 40 saqueos y 70 hechos de violencia grave, 62 carabineros heridos en el país. 
-- Militares se presentan en plaza Baquedano. 
 - Disparos de parte de Carabineros y militares a grupos de manifestantes
 - INDH constata de personas lesionadas, denuncias de desnudamiento, vejaciones sexuales y tortura. 
-- Hostilidad entre manifestantes y policías.
+- Agresiones de manifestantes a policías.
 - Detenciones arbitrarias. 
 
 ---
@@ -81,12 +80,11 @@
 - General Iturriaga descarta estado de guerra. 
 - Ministro del Interior constata 110 saqueos y 14 incendios en el pais. 
 - Acusaciones de tortura por parte de funcionarios PDI.
-- Enfrentamiento entre manifestantes y policías.
+- Agresiones de manifestantes a policías.
 - Construcción de Barricadas.
 - Conteo de heridos no cuadra entre Ministerio de Salud, INDH, Colegio Medico y Hospitales. 
 - Se declara toque de queda en otras ciudades del país.
-- Se inicia la primera formalización a militar por disparos contra una persona. 
-- Enfrentamiento entre manifestantes y militares. 
+- Se inicia la primera formalización a militar por disparos contra una persona.  
 - INDH declara que existe un exceso en el uso de la fuerza por parte de militares. 
 - Ultimo reporte del INDH, 1333 detenidos y 37 (CNN) 88 (La Tercera) denuncias por lesiones debido a uso de armas de fuego.
 - Confirman muerte de inmigrante ecuatoriano desde la embajada de dicho país. 
@@ -98,11 +96,10 @@
 - Quemas y saqueos de edificios comerciales en Concepción. 
 - Disparos de parte de Carabineros a grupos de manifestantes.
 - Disparos de parte de militares a grupos de manifestantes y otros civiles.
-- Destrucción y quema de edificios gubernamentales.
 - El gobierno postula que existe organizaciones y coordinación en los ataques y saqueos. 
 - Alta comisionada de DD.HH de la ONU llama al dialogo inmediato. 
 - Cantidad de muertos aumenta a 11. 
-- Enfrentamiento entre civiles(Entre quienes se manifiesten y quienes no).
+- Agresiones entre civiles
 - Carabineros realizan acoso callejero a manifestantes mujeres. 
 - Vejaciones por parte de carabineros
 - Uso de vehículos particulares por parte de carabineros en operativos. 
@@ -142,7 +139,7 @@
 ### Categorías. 
 - Decretan prisión preventiva a militar acusado de matar a joven en Curico. 
 - Fiscalía confirma 16 muertes en el contexto de las protestas. 
-- Enfrentamiento entre manifestantes y policías.
+- Agresiones de manifestantes a policías.
 - Reunión entre director del INDH y Presidente Piñera. 
 - Ministerio Público designa fiscal especial para las querellas de violación de DD.HH. 
 - Llaman a reservistas del ejercito. 
@@ -186,7 +183,7 @@
 - Comisión interamerica de Derechos Humanos realiza audiencia de oficio por violencia en Chile. 
 - Declaraciones de los ministros de Justicia y de Defensa justificando procedimientos policiales y militares. 
 - Gobierno pide observadores de DD.HH a alta comisionada de la ONU. 
-- Enfrentamiento entre manifestantes y policías.
+- Agresiones de manifestantes a policías.
 - Armada investiga dos militares por saqueos de bienes. 
 - General en Jefe de Carabineros anuncia investigaciones internas por abuso de fuerza.
 - "Encapuchados" se acercan y conversan con carabineros (infiltración).
