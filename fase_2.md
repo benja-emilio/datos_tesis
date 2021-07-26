@@ -189,7 +189,9 @@
 - "Encapuchados" se acercan y conversan con carabineros (infiltración).
 - Denuncias de supuestos saqueos autorizados por carabineros. 
 - Vocera de CONES se querella por secuestro. 
-- Colegio Medico denuncia intimidaciones para no entregar información de las personas heridas. 
+- Colegio Medico denuncia intimidaciones para no entregar información de las personas heridas.
+- Quemas y saqueos de edificios hoteleros en Santiago. 
+
 
 ---
 
