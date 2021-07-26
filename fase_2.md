@@ -176,7 +176,6 @@
 - INDH investiga acusaciones de "crucificción" en comisaria de Peñalolen. 
 - Militar que disparo a quemarropa a joven en Concepción quedo sin medidas cautelares. 
 - Relativización de la represión por parte de General en Jefe de Carabineros.
-- Sindicatos de chóferes del transantiago en paro tras baleo de compañero. 
 - Presidente de la corte suprema advierte del aumento de las detenciones ilegales. 
 - Comisión Europea condena la violencia registrada en las protestas. 
 - Disparos de parte de Carabineros a grupos de manifestantes.
@@ -210,3 +209,15 @@
 - Carabineros golpean con puño y patadas a manifestantes. 
 
 ---
+| Fecha |Radio Villa Francia|El Desconcierto|El Mostrador| CNN Chile | La Tercera | T13 |total x dia|categorías 
+|---|---|---|---|---|---|---|---|---|
+|17 de Oct|7|2|4|2|2|10|27|9
+|18 de Oct|3|7|8|7|5|22|52|13
+|19 de Oct|6|8|6|11|10|27|68|17
+|20 de Oct|4|8|10|4|6|20|52|17
+|21 de Oct|6|7|8|12|4|58|95|24
+|22 de Oct|4|9|8|8|5|26|60|24
+|23 de Oct|6|8|3|10|7|29|63|28
+|24 de Oct|1|5|9|11|6|16|48|17
+|25 de Oct|0|4|2|10|3|13|32|10
+|Total por medio|37|58|58|75|48|221|497|total categorías 159|
