@@ -106,7 +106,6 @@
 | | |  | ![ima](t13/t13-oct-21_27.png) |  | 
 | | |  | ![ima](t13/t13-oct-21_28.png) |  | 
 | | |  | ![ima](t13/t13-oct-21_29.png) |  | 
-| | |  | ![ima](t13/t13-oct-21_31.png) |  | 
 | | |  | ![ima](t13/t13-oct-21_32.png) |  | 
 | | |  | ![ima](t13/t13-oct-21_33.png) |  |
 | | |  | ![ima](t13/t13-oct-21_34.png) |  | 
@@ -203,10 +202,10 @@
 | | |  | ![ima](t13/t13-oct-24_13.png) |  | 
 | | |  | ![ima](t13/t13-oct-24_14.png) |  |  
 | | |  | ![ima](t13/t13-oct-24_16.png) |  | 
-|25 de Octubre |![ima](cnn/cnn-oct-25_1.png) | ![ima](latercera/terc-oct-25_1.png) | ![ima](t13/t13-oct-25_1.png) | ![ima](mostrador/mos-oct-25_1.png) | ![ima](eldesconcierto/des-oct-25_1.png) | ![ima](rvf/)
-| |![ima](cnn/cnn-oct-25_2.png) | ![ima](latercera/terc-oct-25_2.png) | ![ima](t13/t13-oct-25_2.png) | ![ima](mostrador/mos-oct-25_2.png) | ![ima](eldesconcierto/des-oct-25_2.png) | ![ima](rvf/)
-| |![ima](cnn/cnn-oct-25_3.png) | ![ima](latercera/terc-oct-25_3.png) | ![ima](t13/t13-oct-25_3.png) | | ![ima](eldesconcierto/des-oct-25_3.png) | ![ima](rvf/)
-| | |  | ![ima](t13/t13-oct-25_4.png) | | ![ima](eldesconcierto/des-oct-25_4.png) | ![ima](rvf/)
+|25 de Octubre |![ima](cnn/cnn-oct-25_1.png) | ![ima](latercera/terc-oct-25_1.png) | ![ima](t13/t13-oct-25_1.png) | ![ima](mostrador/mos-oct-25_1.png) | ![ima](eldesconcierto/des-oct-25_1.png) |                                              
+| |![ima](cnn/cnn-oct-25_2.png) | ![ima](latercera/terc-oct-25_2.png) | ![ima](t13/t13-oct-25_2.png) | ![ima](mostrador/mos-oct-25_2.png) | ![ima](eldesconcierto/des-oct-25_2.png) | 
+| |![ima](cnn/cnn-oct-25_3.png) | ![ima](latercera/terc-oct-25_3.png) | ![ima](t13/t13-oct-25_3.png) | | ![ima](eldesconcierto/des-oct-25_3.png) | 
+| | |  | ![ima](t13/t13-oct-25_4.png) | | ![ima](eldesconcierto/des-oct-25_4.png) | 
 | | |  | ![ima](t13/t13-oct-25_5.png) |  | 
 | | |  | ![ima](t13/t13-oct-25_6.png) |  | 
 | | |  | ![ima](t13/t13-oct-25_7.png) |  | 
